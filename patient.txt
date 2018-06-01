@@ -4,6 +4,4 @@ Sex
 DB
 Address
 
-Bug2
-
 post
