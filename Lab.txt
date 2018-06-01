@@ -1,3 +1,5 @@
 Invetigation
 Names
 report
+cost
+Bug1
